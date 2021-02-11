@@ -1,15 +1,16 @@
 body {
-   background-image: url('/Users/betielhabtemariam/Documents/activities/My-portfolio/My-Portfolio/pico.jpeg');
+   background-image: url('/Users/betielhabtemariam/Documents/activities/My-portfolio/My-Portfolio/images/34.jpg');
    background-repeat: no-repeat;
    background-size: cover;  
    /* position: absolute;       */
 }     
  
 .col-md-6{
-  margin-top: 150px;
+  margin-top: 20px;
   margin-inline-start: 0px;
   font-size: 24px;
   font-family: 'Times New Roman', Times, serif;
+  
 }
 
 .topnav {
@@ -36,6 +37,9 @@ body {
 .topnav a.active {
   background-color: rgb(158, 197, 158);
   color: black;
+}
+.row{
+  margin-top: 40px;
 }
 /* Style inputs */
 input[type=text], select, textarea {
