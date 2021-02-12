@@ -113,4 +113,27 @@ input[type=submit]:hover {
   padding: 2px 16px;
 }
   
-  
+.fa {
+  padding: 5px 5px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 20px 20px;
+  float: right;
+}
+.download{
+  padding: 5px 5px;
+  margin: 10px 5px;
+  margin-right: 25px;
+  float: right;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+ 
+}
+.fa-github{
+  color: black;
+  background: rgb(201, 199, 199);
+}
